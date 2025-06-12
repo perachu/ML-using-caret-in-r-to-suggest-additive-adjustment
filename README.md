@@ -1,5 +1,5 @@
 # R-using caret to suggest additive adjustment
-## 6 steps of this project
+## Steps of this project
 1) import dataset to R 
 2) visualize dataset to understand characteristics of data
 3) verify outlier and data cleansing
